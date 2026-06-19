@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{FF0478F6-ECBF-D085-FBCE-B3ADDEC74F2B}</ProjectGuid>
+    <ProjectGuid>{D25F4434-DFA9-367F-833F-22EBAC096D63}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -82,6 +82,7 @@
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\CameraControl.cs" />
     <Compile Include="Assets\Scripts\LevelUI.cs" />
+    <Compile Include="Assets\Scripts\_GitHub.cs" />
     <Compile Include="Assets\Scripts\DeleteControl.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\BlockCreator.cs" />
