@@ -1,0 +1,10 @@
+# end_time player_speed floor_min floor_max hole_min hole_max height_min height_max
+
+10 5 9 10 3 4 0 0      # Level 1
+20 6 8 10 4 5 0 0      # Level 2
+35 7 8 11 5 6 -1 1     # Level 3
+
+43 6 12 15 2 3 0 0     # BreakTime
+
+55 8 9 12 6 7 -1 1     # Level 4
+75 9 10 13 7 8 -1 2    # Level 5
