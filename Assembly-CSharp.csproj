@@ -82,7 +82,6 @@
     <Compile Include="Assets\Scripts\PlayerControl.cs" />
     <Compile Include="Assets\Scripts\CameraControl.cs" />
     <Compile Include="Assets\Scripts\LevelUI.cs" />
-    <Compile Include="Assets\Scripts\_GitHub.cs" />
     <Compile Include="Assets\Scripts\DeleteControl.cs" />
     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\BlockCreator.cs" />

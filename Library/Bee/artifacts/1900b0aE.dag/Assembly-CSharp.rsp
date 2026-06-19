@@ -380,7 +380,6 @@
 "Assets/Scripts/PointManager.cs"
 "Assets/Scripts/SkillPointItem.cs"
 "Assets/Scripts/SuccessSceneManager.cs"
-"Assets/Scripts/_GitHub.cs"
 "Assets/_Animation/Human Animations/Scripts/SpineProxy.cs"
 -langversion:9.0
 /deterministic
